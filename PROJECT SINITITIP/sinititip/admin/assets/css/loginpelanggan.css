@@ -1,0 +1,45 @@
+body {
+	background-image: url('5.png');
+}
+
+/*.container .row{
+	position: center;
+	justify-content: center;
+	margin: 50px 50px;
+	display: inline-block;
+}*/
+
+.container h2 {
+	color: white;
+	font-family: Helvetica, fantasy;
+}
+
+.container h3 {
+	color: white;
+	font-size: 18px;
+}
+
+.container .panel-heading {
+	text-align: center;
+}
+
+.container img {
+	padding-top: 50px;	
+}
+
+.panel {
+	width: 365px;
+}
+
+.panel-heading h3{
+	color: black;
+}
+
+.panel-body {
+	background-color: blue;
+
+}
+
+.form-group label{
+	color: white;
+}

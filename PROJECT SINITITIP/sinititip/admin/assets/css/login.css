@@ -1,0 +1,21 @@
+body {
+	background-image: url('5.png');
+}
+
+.container h2 {
+	color: white;
+	font-family: Helvetica, fantasy;
+}
+
+.container h3 {
+	color: white;
+	font-size: 18px;
+}
+
+.container .panel-heading {
+	text-align: center;
+}
+
+.container img {
+	padding-top: 50px;	
+}

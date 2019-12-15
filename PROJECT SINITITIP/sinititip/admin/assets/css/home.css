@@ -1,0 +1,25 @@
+body h2 {
+	font-size: 90px;
+	text-align: center;
+	font-family: Georgia, serif;
+}
+
+body p {
+	font-size: 30px;
+	text-align: center;
+	font-family: New Century Schoolbook, TeX Gyre Schola, serif;
+}
+
+@media screen and (max-width: 600px) {
+h2 {
+	font-size: 10px;
+	text-align: center;
+	font-family: Georgia, serif;
+}
+
+body p {
+	font-size: 30px;
+	text-align: center;
+	font-family: New Century Schoolbook, TeX Gyre Schola, serif;
+}
+}
